@@ -1,0 +1,7 @@
+INSTRUCCIONES PARA EJECUTAR EL PROGRAMA
+
+PASO 1:
+Desde la linea de comandos, ya sea Windows o Linux, posicionarse en el directorio donde se encuentra este archivo que estamos leyendo.
+
+PASO 2:
+Ejecutar el siguiente comando sin las comillas: "java -jar rover.jar instrucciones.txt", donde "instrucciones.txt" es el archivo que contiene las instrucciones para los rovers.
