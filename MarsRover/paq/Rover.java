@@ -16,11 +16,7 @@ public class Rover {
     private boolean habil;
     private static int cuantos = 0;
     private int n;
-//    private int upper;
-//    private int right;
-//    private final String PUNTOS_CARDINALES = "NESO";
-//    private final int LOWER = 0;
-//    private final int LEFT = 0;    
+
 
     public Rover() {
     }
@@ -78,7 +74,7 @@ public class Rover {
     
 
     public void setOrientacion(char ladoGiro) {
-//        this.orientacion =;
+
         int ind = Plateau.getInstance().PUNTOS_CARDINALES.indexOf(this.orientacion);
         if (ladoGiro == 'L') {
 
@@ -127,9 +123,6 @@ public class Rover {
         }
     }
 
-//    public void setOrientacion(char orientacion, char lado) {
-//        this.orientacion = orientacion;
-//    }
     public void obedecerInstruccion(String instrucciones) {
 
         for (int i = 0; i < instrucciones.length(); i++) {

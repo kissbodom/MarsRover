@@ -1,4 +1,13 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package paq;
+
+/**
+ *
+ * @author HUGO
+ */
 
 public class Plateau {
 

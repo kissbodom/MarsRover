@@ -1,4 +1,13 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package paq;
+
+/**
+ *
+ * @author HUGO
+ */
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -20,7 +29,6 @@ public class Main {
             buff = new BufferedReader(fr);
 
             String esquinaSuperiorDerecha = buff.readLine();
-//            System.out.println("imprimiendo la primera linea: " + esquinaSuperiorDerecha);
             StringTokenizer tok = new StringTokenizer(esquinaSuperiorDerecha, " ");
             
             int upper = 0;
@@ -65,7 +73,6 @@ public class Main {
             if (ex instanceof NumberFormatException) {
                 System.out.println("Alguno de los valores proporcionados como coordenadas x y no son numeros");
             } 
-//            ex.printStackTrace();
         }
 
     }
