@@ -7,7 +7,7 @@ package paq;
 /**
  *
  * @author HUGO
- */
+ */ 
 public class Rover {
 
     private int x;
