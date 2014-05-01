@@ -1,2 +1,0 @@
-Validar que las líneas sean cabales para los rover, que alguno no se quede sin instrucciones.
-Y que ademas los valores que le lleguen como posiciones sean válidos.
