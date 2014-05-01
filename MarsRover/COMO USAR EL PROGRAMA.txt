@@ -1,4 +1,4 @@
-INSTRUCCIONES PARA EJECUTAR EL PROGRAMA
+INSTRUCCIONES PARA EJECUTAR EL PROGRAMA 
 
 PASO 1:
 Desde la linea de comandos, ya sea Windows o Linux, posicionarse en el directorio donde se encuentra este archivo que estamos leyendo.
